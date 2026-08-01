@@ -1,0 +1,9 @@
+chromadb
+faiss-cpu
+torch
+transformers
+sentence-transformers
+groq
+python-dotenv
+langchain
+unstructured
