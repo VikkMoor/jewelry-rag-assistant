@@ -1,4 +1,3 @@
-````markdown
 # 💍 Jewelry RAG Assistant
 
 AI-консультант ювелирного магазина, реализованный с использованием технологии **Retrieval-Augmented Generation (RAG)**.
@@ -93,7 +92,7 @@ pip install -r requirements.txt
 
 ---
 
-## 👩 Автор
+## 😎 Автор
 
 **Victoria Moor**
 
