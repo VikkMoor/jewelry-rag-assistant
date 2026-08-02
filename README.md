@@ -18,19 +18,16 @@ AI-консультант ювелирного магазина, реализо�
 
 ---
 
-## 🛠 Используемые технологии
+## ## 🛠️ Technologies
 
 - Python
 - Google Colab
-- ChromaDB
 - LangChain
+- ChromaDB
 - Sentence Transformers
+- PyTorch
 - Groq API
 - Llama 3.1
-- Unstructured
-- FAISS
-- Transformers
-- Torch
 
 ---
 
